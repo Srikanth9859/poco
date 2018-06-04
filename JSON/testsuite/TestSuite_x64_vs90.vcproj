@@ -449,8 +449,6 @@
 				RelativePath=".\src\JSONTest.cpp"/>
 			<File
 				RelativePath=".\src\JSONTestSuite.cpp"/>
-			<File
-				RelativePath=".\src\WinDriver.cpp"/>
 		</Filter>
 		<Filter
 			Name="Header Files">

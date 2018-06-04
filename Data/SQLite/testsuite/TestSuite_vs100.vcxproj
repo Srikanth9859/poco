@@ -318,7 +318,6 @@
   <ItemGroup>
     <ClCompile Include="src\SQLiteTest.cpp"/>
     <ClCompile Include="src\SQLiteTestSuite.cpp"/>
-    <ClCompile Include="src\WinDriver.cpp"/>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets"/>
   <ImportGroup Label="ExtensionTargets"/>

@@ -320,7 +320,6 @@
   <ItemGroup>
     <ClCompile Include="src\CppParserTest.cpp"/>
     <ClCompile Include="src\CppParserTestSuite.cpp"/>
-    <ClCompile Include="src\WinDriver.cpp"/>
     <ClCompile Include="src\AttributesParserTest.cpp"/>
     <ClCompile Include="src\AttributesTestSuite.cpp"/>
   </ItemGroup>

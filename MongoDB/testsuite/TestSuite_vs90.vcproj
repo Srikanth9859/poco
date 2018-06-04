@@ -449,8 +449,6 @@
 				RelativePath=".\src\MongoDBTest.cpp"/>
 			<File
 				RelativePath=".\src\MongoDBTestSuite.cpp"/>
-			<File
-				RelativePath=".\src\WinDriver.cpp"/>
 		</Filter>
 		<Filter
 			Name="Header Files">

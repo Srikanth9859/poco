@@ -421,7 +421,6 @@
     <ClCompile Include="src\URITest.cpp"/>
     <ClCompile Include="src\URITestSuite.cpp"/>
     <ClCompile Include="src\FoundationTestSuite.cpp"/>
-    <ClCompile Include="src\WinDriver.cpp"/>
     <ClCompile Include="src\NamedEventTest.cpp"/>
     <ClCompile Include="src\NamedMutexTest.cpp"/>
     <ClCompile Include="src\ProcessesTestSuite.cpp"/>

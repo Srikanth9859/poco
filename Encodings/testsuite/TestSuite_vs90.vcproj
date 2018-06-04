@@ -449,8 +449,6 @@
 				RelativePath=".\src\DoubleByteEncodingTest.cpp"/>
 			<File
 				RelativePath=".\src\EncodingsTestSuite.cpp"/>
-			<File
-				RelativePath=".\src\WinDriver.cpp"/>
 		</Filter>
 		<Filter
 			Name="Header Files">

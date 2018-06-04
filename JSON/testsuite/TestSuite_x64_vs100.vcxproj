@@ -314,7 +314,6 @@
   <ItemGroup>
     <ClCompile Include="src\JSONTest.cpp"/>
     <ClCompile Include="src\JSONTestSuite.cpp"/>
-    <ClCompile Include="src\WinDriver.cpp"/>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\JSONTest.h"/>

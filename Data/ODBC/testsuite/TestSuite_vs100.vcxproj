@@ -334,7 +334,6 @@
     <ClCompile Include="src\ODBCTest.cpp"/>
     <ClCompile Include="src\SQLExecutor.cpp"/>
     <ClCompile Include="src\ODBCTestSuite.cpp"/>
-    <ClCompile Include="src\WinDriver.cpp"/>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets"/>
   <ImportGroup Label="ExtensionTargets"/>

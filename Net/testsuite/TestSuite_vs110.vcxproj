@@ -383,7 +383,6 @@
     <ClCompile Include="src\NetworkInterfaceTest.cpp"/>
     <ClCompile Include="src\SocketAddressTest.cpp"/>
     <ClCompile Include="src\NetTestSuite.cpp"/>
-    <ClCompile Include="src\WinDriver.cpp"/>
     <ClCompile Include="src\DatagramSocketTest.cpp"/>
     <ClCompile Include="src\DialogServer.cpp"/>
     <ClCompile Include="src\DialogSocketTest.cpp"/>

@@ -449,8 +449,6 @@
 				RelativePath=".\src\RedisTest.cpp"/>
 			<File
 				RelativePath=".\src\RedisTestSuite.cpp"/>
-			<File
-				RelativePath=".\src\WinDriver.cpp"/>
 		</Filter>
 		<Filter
 			Name="Header Files">

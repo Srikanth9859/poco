@@ -340,7 +340,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\UtilTestSuite.cpp"/>
-    <ClCompile Include="src\WinDriver.cpp"/>
     <ClCompile Include="src\AbstractConfigurationTest.cpp"/>
     <ClCompile Include="src\ConfigurationMapperTest.cpp"/>
     <ClCompile Include="src\ConfigurationTestSuite.cpp"/>

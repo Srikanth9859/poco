@@ -470,14 +470,6 @@
 			</Filter>
 		</Filter>
 		<Filter
-			Name="_Driver">
-			<Filter
-				Name="Source Files">
-				<File
-					RelativePath=".\src\WinDriver.cpp"/>
-			</Filter>
-		</Filter>
-		<Filter
 			Name="TCPServer">
 			<Filter
 				Name="Header Files">

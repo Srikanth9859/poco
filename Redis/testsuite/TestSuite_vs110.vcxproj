@@ -314,7 +314,6 @@
   <ItemGroup>
     <ClCompile Include="src\RedisTest.cpp"/>
     <ClCompile Include="src\RedisTestSuite.cpp"/>
-    <ClCompile Include="src\WinDriver.cpp"/>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\RedisTest.h"/>
