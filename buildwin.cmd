@@ -195,6 +195,8 @@ if "%BUILD_TOOL%"=="msbuild" (
 
   set BUILD_TOOL_FLAGS=/clp:NoSummary
   set BUILD_TOOL_FLAGS=!BUILD_TOOL_FLAGS! /nologo /v:%VERBOSITY%
+
+  msbuild /version
 )
 if not "%BUILD_TOOL%"=="msbuild" (
   set USEENVP=/useenv
